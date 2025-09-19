@@ -1,4 +1,4 @@
-# Student Performance Prediction using Machine Learning
+# Student Performance Prediction using Linear Regression
 
 ## 📌 Project Overview
 This project predicts **student exam scores** based on various performance factors such as:
