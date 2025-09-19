@@ -60,4 +60,4 @@ The notebook includes:
 ## 🛠 How to Run
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/Student-Performance-ML.git
+git clone https://github.com/<your-username>/APR_Assignment1_StudentPerformance.git
